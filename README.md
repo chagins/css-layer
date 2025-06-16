@@ -4,4 +4,4 @@
 
  - layer атрибут в link теге [issue](https://github.com/w3c/csswg-drafts/issues/5853)
 
- [🚀 demo](https://chagins.github.io/css-layer)
+ [🚀 demo](https://chagins.github.io/css-layer-demo)
